@@ -1,1 +1,2 @@
 My first git directory to push to github.
+I edited file from the github.

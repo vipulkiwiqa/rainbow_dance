@@ -1,5 +1,5 @@
 My first git directory to push to github.
 Hi Vipul 
-I edited file from the github in master branch.
-I am in fifth branch.
+Ahmedabad surat patan
+These are the city of gujrat
 I am chirag

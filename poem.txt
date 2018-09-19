@@ -2,7 +2,7 @@ My first git directory to push to github.
 Hi Vipul 
 
 
-Hi Please add 2 lines
-I added 2 lines 3 and 4
+I edited file from the github in master branch.
+I am in third branch.
+I added 4th Line on 5th line
 
-I am chirag
